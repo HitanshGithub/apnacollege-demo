@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository
 <br>
-Author - Hitnsh jain
+Author - Hitnsh jain (1st year)
